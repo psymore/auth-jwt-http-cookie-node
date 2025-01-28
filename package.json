@@ -1,5 +1,5 @@
 {
-  "name": "jwt-http-cookie-auth-node",
+  "name": "auth-jwt-http-cookie-node",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
